@@ -77,3 +77,5 @@ paranoid-android = "0.2"
 [patch.crates-io]
 # Patch that uses bitcoin_hashes v0.14
 bip39 = { git = "https://github.com/yukibtc/rust-bip39", branch = "v2.1.0+hashes-v0.14" }
+
+[workspace]
